@@ -14,8 +14,8 @@ html, a {
     color: white;
 }
 
-.background-image {
-  background-image: url(./Resources/Images/the-flatiron-building.png);
+.main {
+background: url(./Resources/Images/the-flatiron-building.png);
 }
 
 .subhead h2 {
