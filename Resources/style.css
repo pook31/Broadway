@@ -4,11 +4,38 @@ html, a {
   font-family: Helvetica;
 
 }
-.main {
-  font-size: 76px;
-  background-image: url("./Resources/Images/the-flatiron-building.png");
-}
+
+.main h1 {
+  font-size: 70px,
+  font-weight: bold;
+  }
 
 .nav {
     color: white;
 }
+
+.background-image {
+  background-image: url(./Resources/Images/the-flatiron-building.png);
+}
+
+.subhead h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  }
+  .subhead p {
+    font-size: 14px;
+  }
+.midband h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: blue;
+  }
+  .footer p {
+    font-size: 11px;
+    background-color: lightgrey;
+    text-align: left;
+  }
